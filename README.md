@@ -1,6 +1,8 @@
 # ytautogenmeme.bat
 ### A script that automates the generation of YouTube's "- Topic" like music videos.
-Requires **FFMPEG** and for it to be in "**Path**" in the environment variables.
+## Requirements:
+* [Roboto Font (Bold and Regular variant)](https://www.fontsquirrel.com/fonts/roboto)
+* [FFMPEG (Linking: Shared)](https://ffmpeg.zeranoe.com/builds/) and for it to be in **"Path"** in the environment variables.
 
 ## How to use?
 Just run the batch file and enter the asked information. It'll then start to generate the static image and then afterwards the video itself.
